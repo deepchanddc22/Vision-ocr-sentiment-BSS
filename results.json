@@ -1,0 +1,12 @@
+[
+    {
+        "name": "banana",
+        "count": 1,
+        "sku": "F01"
+    },
+    {
+        "name": "onion",
+        "count": 2,
+        "sku": "V01"
+    }
+]

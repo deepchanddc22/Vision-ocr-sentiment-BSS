@@ -1,0 +1,39 @@
+numpy
+pdf2image 
+pymupdf==1.20.0 
+paddlepaddle
+paddleocr==2.7.0.3
+# paddle-bfloat==0.1.7
+# paddlepaddle==2.5.2
+# pillow
+google-generativeai
+fastapi 
+uvicorn
+
+#vision billing requirements
+accelerate
+bitsandbytes
+transformers @ git+https://github.com/huggingface/transformers.git
+huggingface_hub
+torch
+pillow
+opencv-python
+mysql-connector-python
+fuzzywuzzy
+fastapi 
+uvicorn 
+httpx
+requests
+
+#sentiment analysis
+transformers
+torch
+emoji
+langdetect
+translate
+fastapi[all]
+uvicorn 
+
+
+#extras
+python-multipart
